@@ -1,0 +1,35 @@
+{
+  "name": "Distracted Boyfriend",
+  "short_name": "dbf",
+  "image": "assets/dbf.jpg",
+  "type": "three_text",
+  "text": {
+    "anchor_one": {
+      "x": 600,
+      "y": 280,
+      "queryText": "What should the boyfriend text say",
+      "color": "black",
+      "size": 32,
+      "width": 330,
+      "height": 80
+    },
+    "anchor_two": {
+      "x": 900,
+      "y": 450,
+      "queryText": "What should the girlfriend text say",
+      "color": "black",
+      "size": 32,
+      "width": 300,
+      "height": 80
+    },
+    "anchor_three": {
+      "x": 200,
+      "y": 500,
+      "queryText": "What should the babe text say?",
+      "color": "black",
+      "size": 32,
+      "width": 300,
+      "height": 80
+    }
+  }
+}

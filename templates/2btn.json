@@ -1,0 +1,35 @@
+{
+  "name": "Two Button",
+  "short_name": "2btn",
+  "image": "assets/2btn.jpg",
+  "type": "three_text",
+  "text": {
+    "anchor_one": {
+      "x": 90,
+      "y": 100,
+      "queryText": "What should button one say?",
+      "color": "black",
+      "size": 16,
+      "width": 100,
+      "height": 64
+    },
+    "anchor_two": {
+      "x": 310,
+      "y": 75,
+      "queryText": "What should button two say?",
+      "color": "black",
+      "size": 16,
+      "width": 100,
+      "height": 64
+    },
+    "anchor_three": {
+      "x": 190,
+      "y": 680,
+      "queryText": "What text should display over the person clicking the buttons? (leave blank for blank)",
+      "color": "black",
+      "size": 64,
+      "width": 400,
+      "height": 200
+    }
+  }
+}

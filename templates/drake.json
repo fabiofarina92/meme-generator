@@ -1,0 +1,26 @@
+{
+  "name": "Drake",
+  "short_name": "drake",
+  "image": "assets/drake.jpg",
+  "type": "two_text_side",
+  "text": {
+    "anchor_one": {
+      "x": 305,
+      "y": 45,
+      "queryText": "What should the top text be?",
+      "color": "black",
+      "size": 32,
+      "width": 500,
+      "height": 300
+    },
+    "anchor_two": {
+      "x": 305,
+      "y": 410,
+      "queryText": "What should the bottom text be?",
+      "color": "black",
+      "size": 32,
+      "width": 500,
+      "height": 300
+    }
+  }
+}

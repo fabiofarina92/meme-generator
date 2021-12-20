@@ -1,0 +1,26 @@
+{
+  "name": "Pupper",
+  "short_name": "pupper",
+  "image": "assets/pupper.png",
+  "type": "two_text_side",
+  "text": {
+    "anchor_one": {
+      "x": 160,
+      "y": 0,
+      "queryText": "What should the top text be?",
+      "color": "black",
+      "size": 16,
+      "width": 200,
+      "height": 150
+    },
+    "anchor_two": {
+      "x": 160,
+      "y": 150,
+      "queryText": "What should the bottom text be?",
+      "color": "black",
+      "size": 16,
+      "width": 200,
+      "height": 150
+    }
+  }
+}

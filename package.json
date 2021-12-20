@@ -1,0 +1,20 @@
+{
+  "name": "meme-maker",
+  "version": "1.0.0",
+  "description": "Manipulate images and create memes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:check": "prettier --check .",
+    "lint:write": "prettier --write ."
+  },
+  "author": "Fabio",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "jimp": "^0.16.1",
+    "nanoid": "^3.1.30"
+  }
+}

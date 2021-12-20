@@ -1,0 +1,35 @@
+{
+  "name": "Left exit 12 off ramp",
+  "short_name": "le12or",
+  "image": "assets/le12or.jpg",
+  "type": "three_text",
+  "text": {
+    "anchor_one": {
+      "x": 200,
+      "y": 140,
+      "queryText": "What should be straight ahead?",
+      "color": "white",
+      "size": 16,
+      "width": 100,
+      "height": 80
+    },
+    "anchor_two": {
+      "x": 415,
+      "y": 140,
+      "queryText": "What should be at the exit?",
+      "color": "white",
+      "size": 16,
+      "width": 150,
+      "height": 80
+    },
+    "anchor_three": {
+      "x": 350,
+      "y": 600,
+      "queryText": "What should the text on the car be? (leave blank for blank)",
+      "color": "white",
+      "size": 32,
+      "width": 200,
+      "height": 64
+    }
+  }
+}
